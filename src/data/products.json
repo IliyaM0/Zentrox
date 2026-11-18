@@ -1,0 +1,898 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 16 Pro",
+        "brand": "Apple",
+        "category": "Smartphones",
+        "subcategory": "iPhone",
+        "price": 1199,
+        "discount": 5,
+        "rating": 4.9,
+        "reviews": 328,
+        "stock": true,
+        "images": [
+            "iphone-16-pro-front.jpg",
+            "iphone-16-pro-back.jpg",
+            "iphone-16-pro-side.jpg"
+        ],
+        "description": "Experience flagship performance with the iPhone 16 Pro. Featuring the powerful A18 Pro chip, advanced camera system, and premium titanium design, it delivers exceptional speed, photography, and everyday usability.",
+        "specifications": {
+            "processor": "A18 Pro",
+            "ram": "8GB",
+            "storage": "256GB",
+            "display": "6.3 inch OLED",
+            "camera": "48MP Triple Camera",
+            "battery": "3582mAh"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S25 Ultra",
+        "brand": "Samsung",
+        "category": "Smartphones",
+        "subcategory": "Samsung Galaxy",
+        "price": 1299,
+        "discount": 8,
+        "rating": 4.8,
+        "reviews": 250,
+        "stock": true,
+        "images": [
+            "galaxy-s25-ultra-front.jpg",
+            "galaxy-s25-ultra-back.jpg",
+            "galaxy-s25-ultra-camera.jpg"
+        ],
+        "description": "The Galaxy S25 Ultra combines premium design, powerful performance, and professional photography features. Built for productivity, gaming, and creative tasks with an advanced AMOLED display.",
+        "specifications": {
+            "processor": "Snapdragon 8 Elite",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.9 inch AMOLED",
+            "camera": "200MP Main Camera",
+            "battery": "5000mAh"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 9 Pro",
+        "brand": "Google",
+        "category": "Smartphones",
+        "subcategory": "Google Pixel",
+        "price": 999,
+        "discount": 5,
+        "rating": 4.7,
+        "reviews": 180,
+        "stock": true,
+        "images": [
+            "pixel-9-pro-front.jpg",
+            "pixel-9-pro-back.jpg",
+            "pixel-9-pro-camera.jpg"
+        ],
+        "description": "Google Pixel 9 Pro offers an outstanding camera experience with intelligent software features. It provides smooth Android performance and a clean premium smartphone experience.",
+        "specifications": {
+            "processor": "Google Tensor G4",
+            "ram": "16GB",
+            "storage": "256GB",
+            "display": "6.3 inch OLED",
+            "camera": "50MP Triple Camera",
+            "battery": "4700mAh"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi 15 Ultra",
+        "brand": "Xiaomi",
+        "category": "Smartphones",
+        "subcategory": "Other Phones",
+        "price": 899,
+        "discount": 10,
+        "rating": 4.6,
+        "reviews": 150,
+        "stock": true,
+        "images": [
+            "xiaomi-15-ultra-front.jpg",
+            "xiaomi-15-ultra-back.jpg",
+            "xiaomi-15-ultra-camera.jpg"
+        ],
+        "description": "Xiaomi 15 Ultra delivers flagship-level hardware with a powerful processor and professional camera system. It is designed for users who want premium features at a competitive price.",
+        "specifications": {
+            "processor": "Snapdragon 8 Elite",
+            "ram": "16GB",
+            "storage": "512GB",
+            "display": "6.7 inch AMOLED",
+            "camera": "200MP Leica Camera",
+            "battery": "5410mAh"
+        }
+    },
+    {
+        "id": 5,
+        "name": "OnePlus 13",
+        "brand": "OnePlus",
+        "category": "Smartphones",
+        "subcategory": "Other Phones",
+        "price": 799,
+        "discount": 7,
+        "rating": 4.5,
+        "reviews": 120,
+        "stock": true,
+        "images": [
+            "oneplus-13-front.jpg",
+            "oneplus-13-back.jpg",
+            "oneplus-13-camera.jpg"
+        ],
+        "description": "OnePlus 13 provides fast performance, smooth software, and excellent battery life. A great choice for users looking for speed and premium Android features.",
+        "specifications": {
+            "processor": "Snapdragon 8 Elite",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.8 inch AMOLED",
+            "camera": "50MP Triple Camera",
+            "battery": "6000mAh"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Nothing Phone 3",
+        "brand": "Nothing",
+        "category": "Smartphones",
+        "subcategory": "Other Phones",
+        "price": 599,
+        "discount": 5,
+        "rating": 4.4,
+        "reviews": 90,
+        "stock": true,
+        "images": [
+            "nothing-phone-3-front.jpg",
+            "nothing-phone-3-back.jpg",
+            "nothing-phone-3-glyph.jpg"
+        ],
+        "description": "Nothing Phone 3 features a unique transparent design and clean software experience. It offers balanced performance with a distinctive look compared to traditional smartphones.",
+        "specifications": {
+            "processor": "Snapdragon Processor",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.7 inch OLED",
+            "camera": "50MP Dual Camera",
+            "battery": "5000mAh"
+        }
+    },
+    {
+        "id": 7,
+        "name": "MacBook Pro M4",
+        "brand": "Apple",
+        "category": "Laptops",
+        "subcategory": "MacBooks",
+        "price": 1999,
+        "discount": 5,
+        "rating": 4.9,
+        "reviews": 420,
+        "stock": true,
+        "images": [
+            "macbook-pro-m4-front.jpg",
+            "macbook-pro-m4-side.jpg",
+            "macbook-pro-m4-keyboard.jpg"
+        ],
+        "description": "MacBook Pro M4 is designed for professionals who need powerful performance. With Apple silicon, a stunning Retina display, and long battery life, it handles demanding workflows easily.",
+        "specifications": {
+            "processor": "Apple M4 Pro",
+            "ram": "24GB",
+            "storage": "512GB SSD",
+            "display": "14 inch Retina",
+            "gpu": "Integrated GPU",
+            "battery": "Up to 20 hours"
+        }
+    },
+    {
+        "id": 8,
+        "name": "MacBook Air M3",
+        "brand": "Apple",
+        "category": "Laptops",
+        "subcategory": "Ultrabooks",
+        "price": 1099,
+        "discount": 5,
+        "rating": 4.8,
+        "reviews": 300,
+        "stock": true,
+        "images": [
+            "macbook-air-m3-front.jpg",
+            "macbook-air-m3-side.jpg",
+            "macbook-air-m3-open.jpg"
+        ],
+        "description": "MacBook Air M3 combines portability and performance in a lightweight design. It is perfect for students, professionals, and everyday productivity tasks.",
+        "specifications": {
+            "processor": "Apple M3",
+            "ram": "16GB",
+            "storage": "256GB SSD",
+            "display": "13.6 inch Retina",
+            "gpu": "Integrated GPU",
+            "battery": "Up to 18 hours"
+        }
+    },
+    {
+        "id": 9,
+        "name": "ASUS ROG Strix G16",
+        "brand": "ASUS",
+        "category": "Laptops",
+        "subcategory": "Gaming Laptops",
+        "price": 1599,
+        "discount": 10,
+        "rating": 4.7,
+        "reviews": 220,
+        "stock": true,
+        "images": [
+            "asus-rog-strix-g16-front.jpg",
+            "asus-rog-strix-g16-keyboard.jpg",
+            "asus-rog-strix-g16-side.jpg"
+        ],
+        "description": "ASUS ROG Strix G16 is built for gamers who need high performance. It features powerful hardware, advanced cooling, and a high refresh rate display for competitive gaming.",
+        "specifications": {
+            "processor": "Intel Core i9",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display": "16 inch 240Hz",
+            "gpu": "RTX 4070",
+            "battery": "90Wh"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Dell XPS 15",
+        "brand": "Dell",
+        "category": "Laptops",
+        "subcategory": "Business Laptops",
+        "price": 1799,
+        "discount": 8,
+        "rating": 4.6,
+        "reviews": 170,
+        "stock": true,
+        "images": [
+            "dell-xps-15-front.jpg",
+            "dell-xps-15-side.jpg",
+            "dell-xps-15-keyboard.jpg"
+        ],
+        "description": "Dell XPS 15 is a premium laptop focused on productivity and professional work. It offers a beautiful display, strong performance, and a refined design.",
+        "specifications": {
+            "processor": "Intel Core Ultra 7",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "15 inch OLED",
+            "gpu": "RTX Graphics",
+            "battery": "86Wh"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "brand": "Lenovo",
+        "category": "Laptops",
+        "subcategory": "Business Laptops",
+        "price": 1499,
+        "discount": 5,
+        "rating": 4.7,
+        "reviews": 200,
+        "stock": true,
+        "images": [
+            "thinkpad-x1-carbon-front.jpg",
+            "thinkpad-x1-carbon-keyboard.jpg",
+            "thinkpad-x1-carbon-side.jpg"
+        ],
+        "description": "ThinkPad X1 Carbon is a reliable business laptop known for durability and productivity. It offers excellent keyboard quality, strong security features, and portability.",
+        "specifications": {
+            "processor": "Intel Core Ultra 7",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "14 inch",
+            "gpu": "Integrated GPU",
+            "battery": "Up to 15 hours"
+        }
+    },
+    {
+        "id": 12,
+        "name": "HP Spectre x360",
+        "brand": "HP",
+        "category": "Laptops",
+        "subcategory": "2-in-1 Laptops",
+        "price": 1399,
+        "discount": 7,
+        "rating": 4.5,
+        "reviews": 140,
+        "stock": true,
+        "images": [
+            "hp-spectre-x360-front.jpg",
+            "hp-spectre-x360-tablet.jpg",
+            "hp-spectre-x360-keyboard.jpg"
+        ],
+        "description": "HP Spectre x360 is a versatile convertible laptop with premium materials and flexible design. It can switch between laptop and tablet modes for different workflows.",
+        "specifications": {
+            "processor": "Intel Core Ultra 7",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display": "14 inch OLED",
+            "gpu": "Intel Arc",
+            "battery": "68Wh"
+        }
+    },
+    {
+        "id": 13,
+        "name": "iPad Pro M4",
+        "brand": "Apple",
+        "category": "Tablets",
+        "subcategory": "iPad",
+        "price": 999,
+        "discount": 5,
+        "rating": 4.9,
+        "reviews": 280,
+        "stock": true,
+        "images": [
+            "ipad-pro-m4-front.jpg",
+            "ipad-pro-m4-back.jpg",
+            "ipad-pro-m4-display.jpg"
+        ],
+        "description": "iPad Pro M4 delivers desktop-class performance in a slim tablet design. With an advanced OLED display and powerful Apple silicon, it is ideal for professionals, creators, and demanding users.",
+        "specifications": {
+            "processor": "Apple M4",
+            "ram": "8GB",
+            "storage": "256GB",
+            "display": "11 inch OLED",
+            "camera": "12MP Camera",
+            "battery": "Up to 10 hours"
+        }
+    },
+    {
+        "id": 14,
+        "name": "iPad Air M3",
+        "brand": "Apple",
+        "category": "Tablets",
+        "subcategory": "iPad",
+        "price": 599,
+        "discount": 5,
+        "rating": 4.8,
+        "reviews": 190,
+        "stock": true,
+        "images": [
+            "ipad-air-m3-front.jpg",
+            "ipad-air-m3-back.jpg",
+            "ipad-air-m3-pencil.jpg"
+        ],
+        "description": "iPad Air M3 offers excellent performance with a lightweight design. It is a great choice for entertainment, studying, creative work, and everyday productivity.",
+        "specifications": {
+            "processor": "Apple M3",
+            "ram": "8GB",
+            "storage": "128GB",
+            "display": "11 inch Liquid Retina",
+            "camera": "12MP",
+            "battery": "Up to 10 hours"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Samsung Galaxy Tab S10 Ultra",
+        "brand": "Samsung",
+        "category": "Tablets",
+        "subcategory": "Android Tablets",
+        "price": 1199,
+        "discount": 10,
+        "rating": 4.7,
+        "reviews": 160,
+        "stock": true,
+        "images": [
+            "galaxy-tab-s10-ultra-front.jpg",
+            "galaxy-tab-s10-ultra-back.jpg",
+            "galaxy-tab-s10-ultra-s_pen.jpg"
+        ],
+        "description": "Galaxy Tab S10 Ultra is a premium Android tablet with a large AMOLED display and powerful performance. Designed for productivity, entertainment, and creative tasks.",
+        "specifications": {
+            "processor": "MediaTek Dimensity",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "14.6 inch AMOLED",
+            "camera": "13MP Dual Camera",
+            "battery": "11200mAh"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Microsoft Surface Pro 11",
+        "brand": "Microsoft",
+        "category": "Tablets",
+        "subcategory": "Windows Tablets",
+        "price": 999,
+        "discount": 5,
+        "rating": 4.6,
+        "reviews": 130,
+        "stock": true,
+        "images": [
+            "surface-pro-11-front.jpg",
+            "surface-pro-11-keyboard.jpg",
+            "surface-pro-11-tablet.jpg"
+        ],
+        "description": "Surface Pro 11 combines tablet flexibility with laptop performance. Running Windows, it is designed for professionals who need portability and productivity.",
+        "specifications": {
+            "processor": "Snapdragon X Elite",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "13 inch OLED",
+            "camera": "10MP",
+            "battery": "Up to 14 hours"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Xiaomi Pad 7",
+        "brand": "Xiaomi",
+        "category": "Tablets",
+        "subcategory": "Android Tablets",
+        "price": 399,
+        "discount": 8,
+        "rating": 4.5,
+        "reviews": 100,
+        "stock": true,
+        "images": [
+            "xiaomi-pad-7-front.jpg",
+            "xiaomi-pad-7-back.jpg",
+            "xiaomi-pad-7-display.jpg"
+        ],
+        "description": "Xiaomi Pad 7 provides strong performance and a high-quality display at an affordable price. It is suitable for entertainment, browsing, and daily tasks.",
+        "specifications": {
+            "processor": "Snapdragon 7+ Gen 3",
+            "ram": "8GB",
+            "storage": "256GB",
+            "display": "11.2 inch LCD",
+            "camera": "13MP",
+            "battery": "8850mAh"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Wacom One Drawing Tablet",
+        "brand": "Wacom",
+        "category": "Tablets",
+        "subcategory": "Drawing Tablets",
+        "price": 399,
+        "discount": 5,
+        "rating": 4.6,
+        "reviews": 90,
+        "stock": true,
+        "images": [
+            "wacom-one-front.jpg",
+            "wacom-one-pen.jpg",
+            "wacom-one-side.jpg"
+        ],
+        "description": "Wacom One is designed for artists and designers who need accurate digital drawing tools. It provides a natural drawing experience with reliable pen control.",
+        "specifications": {
+            "type": "Pen Display",
+            "connection": "USB-C",
+            "pen": "Battery Free",
+            "pressure": "4096 Levels"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Sony WH-1000XM5",
+        "brand": "Sony",
+        "category": "Audio",
+        "subcategory": "Headphones",
+        "price": 399,
+        "discount": 10,
+        "rating": 4.8,
+        "reviews": 500,
+        "stock": true,
+        "images": [
+            "sony-wh1000xm5-front.jpg",
+            "sony-wh1000xm5-case.jpg",
+            "sony-wh1000xm5-side.jpg"
+        ],
+        "description": "Sony WH-1000XM5 delivers premium sound quality with industry-leading noise cancellation. It offers long battery life, comfort, and an excellent wireless listening experience.",
+        "specifications": {
+            "type": "Over Ear",
+            "battery": "30 hours",
+            "connection": "Bluetooth 5.2",
+            "noiseCancellation": true
+        }
+    },
+    {
+        "id": 20,
+        "name": "Apple AirPods Pro 2",
+        "brand": "Apple",
+        "category": "Audio",
+        "subcategory": "Earbuds",
+        "price": 249,
+        "discount": 5,
+        "rating": 4.7,
+        "reviews": 800,
+        "stock": true,
+        "images": [
+            "airpods-pro-2-front.jpg",
+            "airpods-pro-2-case.jpg",
+            "airpods-pro-2-earbuds.jpg"
+        ],
+        "description": "AirPods Pro 2 provide immersive audio with active noise cancellation and seamless Apple device integration. They are designed for comfort and everyday wireless listening.",
+        "specifications": {
+            "type": "In Ear",
+            "battery": "6 hours",
+            "connection": "Bluetooth",
+            "noiseCancellation": true
+        }
+    },
+    {
+        "id": 21,
+        "name": "Bose QuietComfort Ultra",
+        "brand": "Bose",
+        "category": "Audio",
+        "subcategory": "Headphones",
+        "price": 429,
+        "discount": 5,
+        "rating": 4.8,
+        "reviews": 240,
+        "stock": true,
+        "images": [
+            "bose-qc-ultra-front.jpg",
+            "bose-qc-ultra-case.jpg",
+            "bose-qc-ultra-side.jpg"
+        ],
+        "description": "Bose QuietComfort Ultra headphones combine premium audio quality with advanced noise cancellation. They are built for travelers and music lovers seeking maximum comfort.",
+        "specifications": {
+            "type": "Over Ear",
+            "battery": "24 hours",
+            "connection": "Bluetooth",
+            "feature": "Immersive Audio"
+        }
+    },
+    {
+        "id": 22,
+        "name": "JBL Flip 6",
+        "brand": "JBL",
+        "category": "Audio",
+        "subcategory": "Speakers",
+        "price": 129,
+        "discount": 10,
+        "rating": 4.6,
+        "reviews": 350,
+        "stock": true,
+        "images": [
+            "jbl-flip-6-front.jpg",
+            "jbl-flip-6-side.jpg",
+            "jbl-flip-6-speaker.jpg"
+        ],
+        "description": "JBL Flip 6 is a portable Bluetooth speaker with powerful sound and waterproof design. Perfect for outdoor activities and everyday entertainment.",
+        "specifications": {
+            "power": "30W",
+            "battery": "12 hours",
+            "connection": "Bluetooth 5.1",
+            "waterResistance": "IP67"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Logitech Blue Yeti",
+        "brand": "Logitech",
+        "category": "Audio",
+        "subcategory": "Microphones",
+        "price": 129,
+        "discount": 5,
+        "rating": 4.5,
+        "reviews": 220,
+        "stock": true,
+        "images": [
+            "blue-yeti-front.jpg",
+            "blue-yeti-side.jpg",
+            "blue-yeti-setup.jpg"
+        ],
+        "description": "Logitech Blue Yeti is a popular USB microphone for streaming, podcasts, and professional recordings. It offers clear sound quality with multiple recording modes.",
+        "specifications": {
+            "type": "USB Microphone",
+            "connection": "USB",
+            "patterns": "Four Pickup Patterns",
+            "compatibility": "PC/Mac"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Sennheiser Momentum 4",
+        "brand": "Sennheiser",
+        "category": "Audio",
+        "subcategory": "Headphones",
+        "price": 349,
+        "discount": 8,
+        "rating": 4.7,
+        "reviews": 180,
+        "stock": true,
+        "images": [
+            "sennheiser-momentum-4-front.jpg",
+            "sennheiser-momentum-4-case.jpg",
+            "sennheiser-momentum-4-side.jpg"
+        ],
+        "description": "Sennheiser Momentum 4 offers exceptional audio quality with a premium wireless design. It delivers detailed sound, comfort, and impressive battery life.",
+        "specifications": {
+            "type": "Over Ear",
+            "battery": "60 hours",
+            "connection": "Bluetooth 5.2",
+            "codec": "aptX Adaptive"
+        }
+    },
+    {
+        "id": 25,
+        "name": "PlayStation 5 Slim",
+        "brand": "Sony",
+        "category": "Gaming",
+        "subcategory": "Gaming Consoles",
+        "price": 499,
+        "discount": 0,
+        "rating": 4.9,
+        "reviews": 900,
+        "stock": true,
+        "images": [
+            "ps5-slim-front.jpg",
+            "ps5-slim-side.jpg",
+            "ps5-slim-controller.jpg"
+        ],
+        "description": "PlayStation 5 Slim delivers next-generation gaming with ultra-fast loading, stunning graphics, and immersive gameplay. Its compact design makes it a perfect choice for modern gaming setups.",
+        "specifications": {
+            "storage": "1TB SSD",
+            "resolution": "4K",
+            "controller": "DualSense Wireless",
+            "fps": "120Hz"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Xbox Series X",
+        "brand": "Microsoft",
+        "category": "Gaming",
+        "subcategory": "Gaming Consoles",
+        "price": 499,
+        "discount": 5,
+        "rating": 4.8,
+        "reviews": 700,
+        "stock": true,
+        "images": [
+            "xbox-series-x-front.jpg",
+            "xbox-series-x-side.jpg",
+            "xbox-series-x-controller.jpg"
+        ],
+        "description": "Xbox Series X is Microsoft's most powerful console with fast performance and true 4K gaming. It offers a large game library and excellent backward compatibility.",
+        "specifications": {
+            "storage": "1TB SSD",
+            "resolution": "4K",
+            "fps": "120Hz",
+            "controller": "Xbox Wireless Controller"
+        }
+    },
+    {
+        "id": 27,
+        "name": "ASUS ROG Ally",
+        "brand": "ASUS",
+        "category": "Gaming",
+        "subcategory": "Gaming Devices",
+        "price": 699,
+        "discount": 5,
+        "rating": 4.5,
+        "reviews": 250,
+        "stock": true,
+        "images": [
+            "rog-ally-front.jpg",
+            "rog-ally-back.jpg",
+            "rog-ally-screen.jpg"
+        ],
+        "description": "ASUS ROG Ally brings PC gaming into a portable handheld device. With powerful hardware and a high-quality display, it allows gamers to play anywhere.",
+        "specifications": {
+            "processor": "AMD Ryzen Z1 Extreme",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "7 inch 120Hz"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Razer BlackWidow V4",
+        "brand": "Razer",
+        "category": "Gaming",
+        "subcategory": "Gaming Accessories",
+        "price": 179,
+        "discount": 10,
+        "rating": 4.6,
+        "reviews": 300,
+        "stock": true,
+        "images": [
+            "razer-blackwidow-v4-front.jpg",
+            "razer-blackwidow-v4-rgb.jpg",
+            "razer-blackwidow-v4-side.jpg"
+        ],
+        "description": "Razer BlackWidow V4 is a mechanical gaming keyboard designed for competitive players. It features customizable RGB lighting and responsive switches.",
+        "specifications": {
+            "switch": "Mechanical",
+            "connection": "USB",
+            "lighting": "RGB",
+            "layout": "Full Size"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Logitech G Pro X Superlight",
+        "brand": "Logitech",
+        "category": "Gaming",
+        "subcategory": "Gaming Accessories",
+        "price": 159,
+        "discount": 5,
+        "rating": 4.7,
+        "reviews": 400,
+        "stock": true,
+        "images": [
+            "logitech-g-pro-x-superlight-front.jpg",
+            "logitech-g-pro-x-superlight-side.jpg",
+            "logitech-g-pro-x-superlight-bottom.jpg"
+        ],
+        "description": "Logitech G Pro X Superlight is an ultra-light wireless gaming mouse built for competitive gaming. It provides accurate tracking, fast response, and professional-level performance.",
+        "specifications": {
+            "dpi": "25600",
+            "connection": "Wireless",
+            "weight": "63g",
+            "sensor": "HERO Sensor"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Samsung Odyssey G7",
+        "brand": "Samsung",
+        "category": "Gaming",
+        "subcategory": "Gaming Monitors",
+        "price": 599,
+        "discount": 10,
+        "rating": 4.6,
+        "reviews": 180,
+        "stock": true,
+        "images": [
+            "odyssey-g7-front.jpg",
+            "odyssey-g7-side.jpg",
+            "odyssey-g7-display.jpg"
+        ],
+        "description": "Samsung Odyssey G7 is a high-performance gaming monitor with a fast refresh rate and immersive curved display. It is designed for competitive and immersive gaming experiences.",
+        "specifications": {
+            "display": "32 inch Curved",
+            "refreshRate": "240Hz",
+            "resolution": "1440p",
+            "responseTime": "1ms"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Anker 737 Power Bank",
+        "brand": "Anker",
+        "category": "Accessories",
+        "subcategory": "Power Banks",
+        "price": 149,
+        "discount": 10,
+        "rating": 4.7,
+        "reviews": 350,
+        "stock": true,
+        "images": [
+            "anker-737-front.jpg",
+            "anker-737-display.jpg",
+            "anker-737-side.jpg"
+        ],
+        "description": "Anker 737 Power Bank provides high-capacity portable charging with fast charging technology. It is suitable for smartphones, tablets, and other USB-C devices.",
+        "specifications": {
+            "capacity": "24000mAh",
+            "power": "140W",
+            "ports": "USB-C + USB-A",
+            "display": "Digital Screen"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Apple MagSafe Charger",
+        "brand": "Apple",
+        "category": "Accessories",
+        "subcategory": "Chargers",
+        "price": 39,
+        "discount": 0,
+        "rating": 4.5,
+        "reviews": 600,
+        "stock": true,
+        "images": [
+            "magsafe-charger-front.jpg",
+            "magsafe-charger-device.jpg",
+            "magsafe-charger-cable.jpg"
+        ],
+        "description": "Apple MagSafe Charger provides convenient wireless charging with magnetic alignment. Designed for compatible iPhone models and Apple accessories.",
+        "specifications": {
+            "type": "Wireless Charger",
+            "power": "15W",
+            "connection": "USB-C",
+            "compatibility": "iPhone"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Logitech MX Master 3S",
+        "brand": "Logitech",
+        "category": "Accessories",
+        "subcategory": "Computer Accessories",
+        "price": 99,
+        "discount": 5,
+        "rating": 4.8,
+        "reviews": 500,
+        "stock": true,
+        "images": [
+            "mx-master-3s-front.jpg",
+            "mx-master-3s-side.jpg",
+            "mx-master-3s-buttons.jpg"
+        ],
+        "description": "Logitech MX Master 3S is an ergonomic wireless mouse designed for productivity. It offers precise tracking, silent clicks, and comfortable long-term use.",
+        "specifications": {
+            "dpi": "8000",
+            "connection": "Bluetooth",
+            "battery": "70 days",
+            "compatibility": "Windows/Mac"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Samsung Galaxy Watch 7",
+        "brand": "Samsung",
+        "category": "Accessories",
+        "subcategory": "Smartwatches",
+        "price": 299,
+        "discount": 8,
+        "rating": 4.6,
+        "reviews": 200,
+        "stock": true,
+        "images": [
+            "galaxy-watch-7-front.jpg",
+            "galaxy-watch-7-side.jpg",
+            "galaxy-watch-7-band.jpg"
+        ],
+        "description": "Samsung Galaxy Watch 7 combines health tracking, smart features, and stylish design. It helps users monitor fitness, notifications, and daily activities.",
+        "specifications": {
+            "display": "Super AMOLED",
+            "battery": "40 hours",
+            "waterResistance": "5ATM",
+            "connection": "Bluetooth"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Belkin USB-C Hub",
+        "brand": "Belkin",
+        "category": "Accessories",
+        "subcategory": "Hubs & Adapters",
+        "price": 79,
+        "discount": 5,
+        "rating": 4.5,
+        "reviews": 150,
+        "stock": true,
+        "images": [
+            "belkin-usb-c-hub-front.jpg",
+            "belkin-usb-c-hub-ports.jpg",
+            "belkin-usb-c-hub-side.jpg"
+        ],
+        "description": "Belkin USB-C Hub expands connectivity for modern laptops and tablets. It provides multiple ports for displays, storage devices, and peripherals.",
+        "specifications": {
+            "ports": "USB-C, HDMI, USB-A",
+            "connection": "USB-C",
+            "compatibility": "Laptop/Tablet"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Spigen Tough Armor Case",
+        "brand": "Spigen",
+        "category": "Accessories",
+        "subcategory": "Cases",
+        "price": 39,
+        "discount": 10,
+        "rating": 4.6,
+        "reviews": 300,
+        "stock": true,
+        "images": [
+            "spigen-tough-armor-front.jpg",
+            "spigen-tough-armor-back.jpg",
+            "spigen-tough-armor-side.jpg"
+        ],
+        "description": "Spigen Tough Armor provides durable protection with a slim profile. Designed for everyday protection against drops, scratches, and impacts.",
+        "specifications": {
+            "material": "TPU + Polycarbonate",
+            "protection": "Drop Protection",
+            "compatibility": "Smartphones"
+        }
+    }
+]
